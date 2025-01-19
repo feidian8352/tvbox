@@ -1,35 +1,35 @@
 {
   "urls": [
     {
-      "url": "https://tv.feidian8352.us.kg/tvbox/0821.json",
+      "url": "https://tv.feidian8352.us.kg/0821.json",
       "name": "高天流云 No.1"
     },
     {
-      "url": "https://tv.feidian8352.us.kg/tvbox/0825.json",
+      "url": "https://tv.feidian8352.us.kg/0825.json",
       "name": "高天流云 PG"
     },
     {
-      "url": "https://tv.feidian8352.us.kg/tvbox/0826.json",
+      "url": "https://tv.feidian8352.us.kg/0826.json",
       "name": "高天流云 FTY"
     },
     {
-      "url": "https://tv.feidian8352.us.kg/tvbox/0827.json",
+      "url": "https://tv.feidian8352.us.kg/0827.json",
       "name": "高天流云 FM"
     },
     {
-      "url": "https://tv.feidian8352.us.kg/tvbox/js.json",
+      "url": "https://tv.feidian8352.us.kg/js.json",
       "name": "高天流云 JS"
     },
     {
-      "url": "https://tv.feidian8352.us.kg/tvbox/XYQ.json",
+      "url": "https://tv.feidian8352.us.kg/XYQ.json",
       "name": "高天流云 XYQ"
     },
     {
-      "url": "https://tv.feidian8352.us.kg/tvbox/9918.json",
+      "url": "https://tv.feidian8352.us.kg/9918.json",
       "name": "高天流云 x1"
     },
     {
-      "url": "https://tv.feidian8352.us.kg/tvbox/99188.json",
+      "url": "https://tv.feidian8352.us.kg/99188.json",
       "name": "高天流云 x2"
     }
   ]
