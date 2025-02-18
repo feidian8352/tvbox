@@ -1,0 +1,28 @@
+{
+  "urls": [
+    {
+      "url": "https://tv.feidian8352.us.kg/0821.json",
+      "name": "高天流云 No.1"
+    },
+    {
+      "url": "https://tv.feidian8352.us.kg/0825.json",
+      "name": "高天流云 PG"
+    },
+    {
+      "url": "https://tv.feidian8352.us.kg/0826.json",
+      "name": "高天流云 FTY"
+    },
+    {
+      "url": "https://tv.feidian8352.us.kg/0827.json",
+      "name": "高天流云 FM"
+    },
+    {
+      "url": "https://tv.feidian8352.us.kg/js.json",
+      "name": "高天流云 JS"
+    },
+    {
+      "url": "https://tv.feidian8352.us.kg/XYQ.json",
+      "name": "高天流云 XYQ"
+    }
+  ]
+}
