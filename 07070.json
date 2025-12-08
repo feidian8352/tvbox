@@ -1,0 +1,36 @@
+{
+  "urls": [
+    {
+      "url": "http://192.168.5.190/tvbox/0821.json",
+      "name": "高天流云 No.1"
+    },
+    {
+      "url": "http://192.168.5.190/tvbox/0825.json",
+      "name": "高天流云 PG"
+    },
+    {
+      "url": "http://192.168.5.190/tvbox/0826.json",
+      "name": "高天流云 FTY"
+    },
+    {
+      "url": "http://192.168.5.190/tvbox/0827.json",
+      "name": "高天流云 FM"
+    },
+    {
+      "url": "http://192.168.5.190/tvbox/js.json",
+      "name": "高天流云 JS"
+    },
+    {
+      "url": "http://192.168.5.190/tvbox/XYQ.json",
+      "name": "高天流云 XYQ"
+    },
+    {
+      "url": "http://192.168.5.190/tvbox/9918.json",
+      "name": "高天流云 x1"
+    },
+    {
+      "url": "http://192.168.5.190/tvbox/99188.json",
+      "name": "高天流云 x2"
+    }
+  ]
+}
